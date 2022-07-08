@@ -18,7 +18,7 @@ I have performed the following steps:
 
 6. Created training and testing sets (using 60% of the data for the training and reminder for testing) and scaled the data using MinMaxScaler.
 
-7.Built 5 different machine learning models to predict TenYearCHD:
+ 7.Built 5 different machine learning models to predict TenYearCHD:
 
 Logistic Regression - 65% Accuracy, 65% Recall
 
