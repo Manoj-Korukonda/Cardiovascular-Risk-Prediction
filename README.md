@@ -20,17 +20,17 @@ I have performed the following steps:
 
  7.Built 5 different machine learning models to predict TenYearCHD:
 
-Logistic Regression - 65% Accuracy, 65% Recall
+ Logistic Regression - 65% Accuracy, 65% Recall
 
-kNN Classification - 93% Accuracy, 92% Recall
+ kNN Classification - 93% Accuracy, 92% Recall
 
-Random Forest Classification - 94% Accuracy, 93% Recall
+ Random Forest Classification - 94% Accuracy, 93% Recall
 
-Decision Tree Classification - 91% Accuracy, 90% Recall
+ Decision Tree Classification - 91% Accuracy, 90% Recall
 
-Gradient Boosting Classification - 72% Accuracy, 72% recall
+ Gradient Boosting Classification - 72% Accuracy, 72% recall
 
-Hyperparameter tuned the RandomForestClassification - 98% 
+ Hyperparameter tuned the RandomForestClassification - 98% 
 
-Evaluated each model (f1 score, Accuracy, Precision ,Recall and Confusion Matrix) and plotted a graph for the false positive rate and true positive rate for each model.
+ Evaluated each model (f1 score, Accuracy, Precision ,Recall and Confusion Matrix) and plotted a graph for the false positive rate and true positive rate for each      model.
 
