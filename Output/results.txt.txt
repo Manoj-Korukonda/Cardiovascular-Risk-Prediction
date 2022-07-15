@@ -1,0 +1,11 @@
+Model	Accuracy                               Recall
+0	Logistic Regression	64.950495      65
+1	K-Nearest Neighbour	92.673267      92
+2	Random Forest	        93.613861      93
+3	Decision Tree	        90.627063      90
+4	Gradient Boosting	71.947195      72
+
+Hyperparameter Tuning for best Classifier
+Using Randomized Search Cross Validation
+
+Random Forest with recall of 98%
